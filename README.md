@@ -1,4 +1,8 @@
 # NLP_tweet_analysis_system
+
+![tweet_analysis_introduction](https://github.com/0mustafa/NLP_tweet_analysis_system/assets/78226423/a0a08178-ddd8-4452-9323-4aec5d8a4e26)
+
+
 Bu projede Twitter'dan çekilen verilerle oluşturulan veritabanı kullanılarak, girilen alternatif bir Tweet'in kime ait olabileceği yüzdesel olarak tahmin edilmektedir.
   ### Projenin Kullanım Alanları
     - Bir tweetin daha önce birisi tarafından paylaşılmış olma ihtimali hesaplanabilir.
