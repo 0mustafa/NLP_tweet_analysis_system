@@ -54,7 +54,7 @@ Projemiz artık bitmiş durumda verilen bir Tweet'in 4 kullanıcıdan hangilerin
 <br/>
 
 ![Screenshot_5](https://user-images.githubusercontent.com/78226423/210456303-2c421dbb-0a9c-4570-afe2-7e68a7041f48.png)
-Projemize son olarak Netflix'in eskiden attığı `önerdiğim diziyi izledin mi diyorum bana nau nau diyor` Tweet'ini veriyoruz ve bize aşağıdaki sonuçları veriyor.
+Projemize son olarak Netflix'in eskiden paylaştığı `önerdiğim diziyi izledin mi diyorum bana nau nau diyor` Tweet'ini veriyoruz ve bize aşağıdaki sonuçları veriyor.
 <br/>
 
 ```
