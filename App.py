@@ -49,6 +49,7 @@ class App:
         return [result_NB, result_DT]
     
     def run(self):
+        st.set_page_config(page_title="Tweet Analysis")
         st.title("Tweet Analiz Sistemi")
         st.markdown("---")
         
